@@ -2,11 +2,11 @@ git branch -a -vv
   add-author                    d4ca08b [origin/add-author: ahead 1] Complete project documentation and calculator
   bug-fix-revert                9367558 [origin/bug-fix-revert] Add pull request evidence
   bug-fix-typo                  d2e04eb [origin/bug-fix-typo] Fix typo in README footer
-* main                          f4ffe35 [origin/main] Add pull request evidence
+* main                          cf577a3 [origin/main] Update open pull request evidence
   remotes/origin/HEAD           -> origin/main
   remotes/origin/add-author     8b569e4 Add GitHub username as contributor
   remotes/origin/bug-fix-revert 9367558 Add pull request evidence
   remotes/origin/bug-fix-typo   d2e04eb [origin/bug-fix-typo] Fix typo in README footer
-  remotes/origin/main           f4ffe35 Add pull request evidence
+  remotes/origin/main           cf577a3 Update open pull request evidence
   remotes/upstream/HEAD         -> upstream/main
   remotes/upstream/main         ad95b0a Create close_pr.yml
