@@ -1,9 +1,9 @@
-curl -sS https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11888 | jq '{html_url,number,state,user: .user.login,head: {label: .head.label,ref: .head.ref,repo: .head.repo.full_name},base: {label: .base.label,ref: .base.ref,repo: .base.repo.full_name}}'
+curl -sS https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11889 | jq '{html_url,number,state,user: .user.login,head: {label: .head.label,ref: .head.ref,repo: .head.repo.full_name},base: {label: .base.label,ref: .base.ref,repo: .base.repo.full_name}}'
 
 {
-  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/11888",
-  "number": 11888,
-  "state": "closed",
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/11889",
+  "number": 11889,
+  "state": "open",
   "user": "Bhavikesh",
   "head": {
     "label": "Bhavikesh:bug-fix-revert",
