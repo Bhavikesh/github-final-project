@@ -3,7 +3,7 @@ curl -sS https://api.github.com/repos/ibm-developer-skills-network/mcino-Introdu
 {
   "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/11890",
   "number": 11890,
-  "state": "open",
+  "state": "closed",
 curl -sS https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11890 | jq '{html_url,number,state,user: .user.login,head: {label: .head.label,ref: .head.ref,repo: .head.repo.full_name},base: {label: .base.label,ref: .base.ref,repo: .base.repo.full_name}}'
 
 {
