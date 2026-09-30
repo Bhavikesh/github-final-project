@@ -10,3 +10,5 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 Please keep contributions focused, follow the existing file formats, and update
 the documentation when behavior changes.
+
+Please include a concise test description with each pull request.
