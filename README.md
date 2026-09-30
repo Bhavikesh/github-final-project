@@ -12,4 +12,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 - simple interest = p*t*r
 
-© 2023 XYZ, Inc.
+© 2022 XYZ, Inc.
