@@ -1,0 +1,12 @@
+git branch -a -vv
+  add-author                    d4ca08b [origin/add-author: ahead 1] Complete project documentation and calculator
+* bug-fix-revert                e05e4bd [origin/bug-fix-revert] Revert "Fix typo in README footer"
+  bug-fix-typo                  d2e04eb [origin/bug-fix-typo] Fix typo in README footer
+  main                          78db16f [origin/main] Record branch merge evidence
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/add-author     8b569e4 Add GitHub username as contributor
+  remotes/origin/bug-fix-revert e05e4bd [origin/bug-fix-revert] Revert "Fix typo in README footer"
+  remotes/origin/bug-fix-typo   d2e04eb [origin/bug-fix-typo] Fix typo in README footer
+  remotes/origin/main           78db16f [origin/main] Record branch merge evidence
+  remotes/upstream/HEAD         -> upstream/main
+  remotes/upstream/main         ad95b0a Create close_pr.yml
