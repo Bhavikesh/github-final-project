@@ -58,11 +58,7 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by opening an issue in this repository or by contacting the project
-maintainers. All complaints will be reviewed and investigated promptly and
-fairly. Community leaders are obligated to respect the privacy and security of
-the reporter of any incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue in this repository or by contacting the project maintainers. All complaints will be reviewed and investigated promptly and fairly. Community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Enforcement Guidelines
 
