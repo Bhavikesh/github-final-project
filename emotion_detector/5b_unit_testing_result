@@ -1,0 +1,12 @@
+Command:
+.venv/bin/python -m unittest -v
+
+Output:
+test_anger_is_dominant (test_emotion_detection.TestEmotionDetector.test_anger_is_dominant) ... ok
+test_joy_is_dominant (test_emotion_detection.TestEmotionDetector.test_joy_is_dominant) ... ok
+test_status_400_returns_empty_result (test_emotion_detection.TestEmotionDetector.test_status_400_returns_empty_result) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK

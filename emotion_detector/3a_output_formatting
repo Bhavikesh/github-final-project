@@ -1,0 +1,4 @@
+The emotion_detector function returns the required keys:
+anger, disgust, fear, joy, sadness, dominant_emotion
+
+The dominant emotion is calculated from the highest returned score.

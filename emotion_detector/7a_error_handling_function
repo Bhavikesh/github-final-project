@@ -1,0 +1,10 @@
+emotion_detector returns this structure for a Watson response with status_code 400:
+
+{
+    'anger': None,
+    'disgust': None,
+    'fear': None,
+    'joy': None,
+    'sadness': None,
+    'dominant_emotion': None
+}

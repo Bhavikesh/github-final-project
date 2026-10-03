@@ -1,0 +1,5 @@
+Command:
+.venv/bin/python -c 'from EmotionDetection import emotion_detector; print("package import: OK")'
+
+Output:
+package import: OK

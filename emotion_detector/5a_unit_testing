@@ -1,0 +1,3 @@
+The unittest implementation is in test_emotion_detection.py.
+
+It tests joy dominance, anger dominance, and the required status-code-400 empty result.

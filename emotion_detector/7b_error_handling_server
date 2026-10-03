@@ -1,0 +1,2 @@
+server.py checks submitted text after stripping whitespace.
+Blank input displays: Please enter text to analyze.

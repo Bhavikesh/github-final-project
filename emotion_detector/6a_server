@@ -1,0 +1,3 @@
+server.py provides a Flask application at / with GET and POST support.
+It calls emotion_detector for submitted text and renders the returned scores.
+The server supports PORT, defaulting to 5000.
