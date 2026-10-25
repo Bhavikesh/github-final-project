@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  products_list:
+    build:
+      context: ./products_list
+      dockerfile: Dockerfile
+    container_name: products_list_service
+    ports:
+      - "5002:5000"
+    environment:
+      - PORT=5000
+
+  dealer_details:
+    build:
+      context: ./dealer_details
+      dockerfile: Dockerfile
+    container_name: dealer_details_service
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+
+  frontend:
+    build:
+      context: ./dealer_evaluation_frontend
+      dockerfile: Dockerfile
+    container_name: dealer_frontend_service
+    ports:
+      - "5001:5001"
+    environment:
+      - PORT=5001
+    depends_on:
+      - products_list
+      - dealer_details
